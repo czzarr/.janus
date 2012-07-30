@@ -16,3 +16,6 @@
 [submodule "vim-stylus"]
 	path = vim-stylus
 	url = https://github.com/wavded/vim-stylus.git
+[submodule "ack.vim"]
+	path = ack.vim
+	url = https://github.com/mileszs/ack.vim.git
