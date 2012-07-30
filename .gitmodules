@@ -13,3 +13,6 @@
 [submodule "mustache.vim"]
 	path = mustache.vim
 	url = https://github.com/juvenn/mustache.vim.git
+[submodule "vim-stylus"]
+	path = vim-stylus
+	url = https://github.com/wavded/vim-stylus.git
