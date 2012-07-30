@@ -10,3 +10,6 @@
 [submodule "vim-repeat"]
 	path = vim-repeat
 	url = https://github.com/tpope/vim-repeat.git
+[submodule "mustache.vim"]
+	path = mustache.vim
+	url = https://github.com/juvenn/mustache.vim.git
