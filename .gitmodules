@@ -19,3 +19,6 @@
 [submodule "ack.vim"]
 	path = ack.vim
 	url = https://github.com/mileszs/ack.vim.git
+[submodule "zencoding-vim"]
+	path = zencoding-vim
+	url = http://github.com/mattn/zencoding-vim.git
