@@ -22,3 +22,6 @@
 [submodule "zencoding-vim"]
 	path = zencoding-vim
 	url = http://github.com/mattn/zencoding-vim.git
+[submodule "MatchTag"]
+	path = MatchTag
+	url = https://github.com/gregsexton/MatchTag
