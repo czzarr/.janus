@@ -28,3 +28,6 @@
 [submodule "vizardry"]
 	path = vizardry
 	url = https://github.com/ardagnir/vizardry
+[submodule "calendar"]
+	path = calendar
+	url = https://github.com/itchyny/calendar.vim
