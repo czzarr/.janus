@@ -31,3 +31,9 @@
 [submodule "calendar"]
 	path = calendar
 	url = https://github.com/itchyny/calendar.vim
+[submodule "vim-vinegar"]
+	path = vim-vinegar
+	url = git://github.com/tpope/vim-vinegar.git
+[submodule "gundo.vim"]
+	path = gundo.vim
+	url = http://github.com/sjl/gundo.vim.git
