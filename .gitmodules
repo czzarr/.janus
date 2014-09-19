@@ -40,3 +40,6 @@
 [submodule "vim-jade"]
 	path = vim-jade
 	url = git://github.com/digitaltoad/vim-jade.git
+[submodule "jshint2.vim"]
+	path = jshint2.vim
+	url = https://github.com/Shutnik/jshint2.vim
