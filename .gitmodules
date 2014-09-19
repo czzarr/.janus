@@ -43,3 +43,6 @@
 [submodule "jshint2.vim"]
 	path = jshint2.vim
 	url = https://github.com/Shutnik/jshint2.vim
+[submodule "YouCompleteMe"]
+	path = YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe
