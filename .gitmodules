@@ -46,3 +46,9 @@
 [submodule "YouCompleteMe"]
 	path = YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe
+[submodule "tern_for_vim"]
+	path = tern_for_vim
+	url = https://github.com/marijnh/tern_for_vim
+[submodule "vim-javascript-syntax"]
+	path = vim-javascript-syntax
+	url = https://github.com/jelera/vim-javascript-syntax.git
